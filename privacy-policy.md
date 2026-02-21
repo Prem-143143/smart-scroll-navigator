@@ -33,7 +33,6 @@ Examples include:
 
 The extension requests certain permissions solely to provide its core functionality:
 
-* **activeTab** – to enable navigation and interface enhancements on the ChatGPT webpage.  
 * **storage** – to save user preferences locally.  
 * **Host permissions (chat.openai.com)** – to operate only on the ChatGPT website where the extension features are applied.
 
